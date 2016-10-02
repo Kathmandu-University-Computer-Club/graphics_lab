@@ -1,14 +1,14 @@
-Computer Graphics Lab
+# Computer Graphics Lab
 
-Kathmandu University
+Kathmandu University  
 
-Department of Computer Science & Engineering
+Department of Computer Science & Engineering  
 
-DDA
-BLA
-Circle Drawing Algorithm
-Ellipse Drawing Algorithm
-Pie Chart
-Bar Graph
-Windmill
-2D transformation
+- DDA
+- BLA
+- Circle Drawing Algorithm
+- Ellipse Drawing Algorithm
+- Pie Chart
+- Bar Graph
+- Windmill
+- 2D transformation
